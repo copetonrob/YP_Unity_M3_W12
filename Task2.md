@@ -24,11 +24,11 @@
 
 Для того, чтобы бананавая бомба запускала звуки и эффект взрыва, необходимо прокинуть ссылки на эти объекты
 
-<img src="https://github.com/copetonrob/YP_Unity_M3_W12/blob/main/img/script_effects_ref.png" width="400"/>
+<img src="https://github.com/copetonrob/YP_Unity_M3_W12/blob/main/img/script_effects_ref.png" width="600"/>
 
 Обработаем столкновение с другими коллайдерами, чтобы запустить звук. Добавь в конец скрипта метод OnCollisionEnter
 
-<img src="https://github.com/copetonrob/YP_Unity_M3_W12/blob/main/img/collision_sound.png" width="400"/>
+<img src="https://github.com/copetonrob/YP_Unity_M3_W12/blob/main/img/collision_sound.png" width="600"/>
 
 Теперь при любом столкновении будет проигрываться звук пружинки
 
