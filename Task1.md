@@ -8,7 +8,7 @@
 
 ## Инструкция
 
-Добавь в проект модель [банана](https://github.com/copetonrob/YP_Unity_M3_W11/blob/main/packages/M3W12_banana.unitypackage)
+Добавь в проект модель [банана](https://github.com/copetonrob/YP_Unity_M3_W12/blob/main/packages/M3W12_banana.unitypackage)
 
 Добавь в префаб банана компоненты Rigidbody и Mesh Collider. Настрой параметры компонентов. Если изменяешь префаб в сцене, не забудь применить изменения к префабу.
 
@@ -28,7 +28,7 @@
 
 <img src="https://github.com/copetonrob/YP_Unity_M3_W12/blob/main/img/physic_material_ref.png" width="400"/>
 
-Создай скрипт [банановой бомбы](https://github.com/copetonrob/YP_Unity_M3_W11/blob/main/scripts/BananaBomb.cs)
+Создай скрипт [банановой бомбы](https://github.com/copetonrob/YP_Unity_M3_W12/blob/main/scripts/BananaBomb.cs)
 
 Скопируй содержимое себе в проект и восстанови спрятанные фрагменты кода
 
@@ -36,7 +36,7 @@
 
 <img src="https://github.com/copetonrob/YP_Unity_M3_W12/blob/main/img/banana_script.png" width="400"/>
 
-Создай скрипт для [броска банана](https://github.com/copetonrob/YP_Unity_M3_W11/blob/main/scripts/BananaBombLauncher.cs). Это такой же скрипт как в прошлых вебинарах.
+Создай скрипт для [броска банана](https://github.com/copetonrob/YP_Unity_M3_W12/blob/main/scripts/BananaBombLauncher.cs). Это такой же скрипт как в прошлых вебинарах.
 
 Навесь этот скрипт на объект Weapon внутри объекта Player
 
